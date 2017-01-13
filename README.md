@@ -1,5 +1,5 @@
 # uca2016
-1. Install Node
+1 . Install Node
 
 	a. $sudo apt-get install nodejs
 	
